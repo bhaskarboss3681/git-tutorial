@@ -1,3 +1,3 @@
 # Git Tutorial
 
-Git tutorial will be here
+Git tutorial updates will be avilable here
